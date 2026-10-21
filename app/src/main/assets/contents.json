@@ -1,0 +1,1433 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "𝙺𝚘𝚗𝚘𝚜𝚞𝚋𝚊 𝙴𝚍𝚒𝚝𝚒𝚘𝚗",
+      "publisher": "𝚈𝙾𝚂𝙸𝙼𝙾𝚁𝙰",
+      "tray_image_file": "tray_konosuba.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "yosimoraid@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_konosuba.webp",
+          "emojis": [
+            "💬",
+            "🛎️",
+            "🔔"
+          ],
+          "accessibility_text": "A smiling, white cup contains a brown drink."
+        },
+        {
+          "image_file": "02_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😄",
+            "😀"
+          ],
+          "accessibility_text": "A laughing, white cup is tilted to the right and contains a brown drink."
+        },
+        {
+          "image_file": "03_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😆",
+            "😂"
+          ],
+          "accessibility_text": "A laughing and crying white cup is tilted to the right as if shaking. It contains a brown drink."
+        },
+        {
+          "image_file": "04_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😩",
+            "😰"
+          ],
+          "accessibility_text": "A crying, white cup is half full and leaking brown liquid."
+        },
+        {
+          "image_file": "05_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😭",
+            "💧"
+          ],
+          "accessibility_text": "A crying, white cup is upside-down with brown liquid spilled around it."
+        },
+        {
+          "image_file": "06_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😍",
+            "♥"
+          ],
+          "accessibility_text": "A white cup is next to two red hearts. It contains coffee with white foam in the shape of a heart on top."
+        },
+        {
+          "image_file": "07_konosuba.webp",
+          "emojis": [
+            "💬",
+            "💔",
+            "👎"
+          ],
+          "accessibility_text": "A white cup contains coffee with white foam in the shape of a broken heart on top."
+        },
+        {
+          "image_file": "08_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😍",
+            "💑"
+          ],
+          "accessibility_text": "Two smiling cups are below two red hearts. One cup is white, and one is black. They contain a brown drink."
+        },
+        {
+          "image_file": "09_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😘",
+            "🍪"
+          ],
+          "accessibility_text": "A smiling, white cup looks at a cookie and a red heart. It contains coffee with white foam in the shape of a heart on top."
+        },
+        {
+          "image_file": "10_konosuba.webp",
+          "emojis": [
+            "💬",
+            "🤔",
+            "😐"
+          ],
+          "accessibility_text": "A sad, white cup seems to shake. It contains a brown drink."
+        },
+        {
+          "image_file": "11_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😱",
+            "😵"
+          ],
+          "accessibility_text": "A shocked, white cup is tilted to the left with brown liquid splashing out of it."
+        },
+        {
+          "image_file": "12_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😡",
+            "😠"
+          ],
+          "accessibility_text": "An angry, red cup has three red lightning bolts coming out of it."
+        },
+        {
+          "image_file": "13_konosuba.webp",
+          "emojis": [
+            "💬",
+            "❓",
+            "🤔"
+          ],
+          "accessibility_text": "An expressionless, white cup has two brown question marks above it. It contains a brown drink."
+        },
+        {
+          "image_file": "14_konosuba.webp",
+          "emojis": [
+            "💬",
+            "🌈",
+            "😜"
+          ],
+          "accessibility_text": "A shocked, white cup has a rainbow pouring into it. It has pink cheeks, shining eyes and an open mouth."
+        },
+        {
+          "image_file": "15_konosuba.webp",
+          "emojis": [
+            "💬",
+            "💻",
+            "😩"
+          ],
+          "accessibility_text": "A snoring, white cup is next to a shadowy laptop with text that reads :(@#%&. It has crosses for eyes and an open mouth."
+        },
+        {
+          "image_file": "16_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😡",
+            "😤"
+          ],
+          "accessibility_text": "An angry, red cup stares. It has brown spikes at its base and contains blue liquid."
+        },
+        {
+          "image_file": "17_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😩",
+            "😨"
+          ],
+          "accessibility_text": "A tired, grey cup is under a low battery symbol. It's half-full and leaking a dark liquid. It has red eyes and an open mouth"
+        },
+        {
+          "image_file": "18_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😔",
+            "😨"
+          ],
+          "accessibility_text": "A drooling, white cup stares at a laptop next to a window showing a moon and stars. It has red, shining eyes."
+        },
+        {
+          "image_file": "19_konosuba.webp",
+          "emojis": [
+            "💬",
+            "🎉",
+            "✨"
+          ],
+          "accessibility_text": "A laughing, white cup is under four yellow stars and a yellow beam of light. It contains a brown drink."
+        },
+        {
+          "image_file": "20_konosuba.webp",
+          "emojis": [
+            "💬",
+            "🤮",
+            "👎"
+          ],
+          "accessibility_text": "A miserable, grey cup vomits green liquid. It contains a green, bubbly liquid."
+        },
+        {
+          "image_file": "21_konosuba.webp",
+          "emojis": [
+            "💬",
+            "🖐",
+            "🙋"
+          ],
+          "accessibility_text": "A happy, white cup with a brown lid holds its arms up."
+        },
+        {
+          "image_file": "22_konosuba.webp",
+          "emojis": [
+            "💬",
+            "🖐",
+            "👋"
+          ],
+          "accessibility_text": "A happy, white cup with a brown lid waves."
+        },
+        {
+          "image_file": "23_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "24_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😦"
+          ]
+        },
+        {
+          "image_file": "25_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "26_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "27_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "28_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😵"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "𝙲𝚊𝚝 𝙼𝚎𝚖𝚎 𝙴𝚍𝚒𝚝𝚒𝚘𝚗",
+      "publisher": "𝚈𝙾𝚂𝙸𝙼𝙾𝚁𝙰",
+      "tray_image_file": "tray_cat.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "yosimoraid@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_cat.webp",
+          "emojis": [
+            "💕",
+            "😘",
+            "❤️"
+          ],
+          "accessibility_text": "A red paper heart is folded into an aerodynamic shape. It zooms around in a spiral."
+        },
+        {
+          "image_file": "02_cat.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ],
+          "accessibility_text": "A blue sash with white text that reads \"We'll do this together\" in English is wrapped around a beige arm. As the arm moves up and down, its clenched fist turns into an open palm."
+        },
+        {
+          "image_file": "03_cat.webp",
+          "emojis": [
+            "❤️",
+            "😘",
+            "💕"
+          ],
+          "accessibility_text": "A smiling red heart has eyes, a mouth and blushing cheeks. It beats a few times to make four smaller hearts appear in front of it."
+        },
+        {
+          "image_file": "04_cat.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ],
+          "accessibility_text": "Two people high five without touching with large pink text that reads \"Air high five\" in English in-between them. One has long blue hair and pink skin. The other has short gray hair and brown skin. "
+        },
+        {
+          "image_file": "05_cat.webp",
+          "emojis": [
+            "📱",
+            "👯",
+            "👋"
+          ],
+          "accessibility_text": "A smartphone screen devides into four sections to reveal two waving people and two smiling people."
+        },
+        {
+          "image_file": "06_cat.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ],
+          "accessibility_text": "Two people wave at each other from their windows. One has brown skin and long black hair. The other has beige skin and short black hair. "
+        },
+        {
+          "image_file": "07_cat.webp",
+          "emojis": [
+            "👍",
+            "👌",
+            "🙂"
+          ],
+          "accessibility_text": "A green speech bubble appears with text that reads \"OK!\" in English."
+        },
+        {
+          "image_file": "08_cat.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ],
+          "accessibility_text": "A green smartphone vibrates as text that reads \"Are you okay?\" in English appears on the screen."
+        },
+        {
+          "image_file": "09_cat.webp",
+          "emojis": [
+            "☕",
+            "🍵",
+            "🏠"
+          ],
+          "accessibility_text": "A red mug with text that reads \"Staying home\" in English rocks from side-to-side to make a brown drink splash out of it."
+        },
+        {
+          "image_file": "10_cat.webp",
+          "emojis": [
+            "👩‍💻",
+            "👨‍💻",
+            "🛏"
+          ],
+          "accessibility_text": "A person sits in bed with a pink comforter wrapped around them while typing on a laptop. The person has dark beige skin and a black fringe."
+        },
+        {
+          "image_file": "11_cat.webp",
+          "emojis": [
+            "☕",
+            "🍵",
+            "🤙"
+          ],
+          "accessibility_text": "A calm person sits with their legs crossed before moving their arms into a meditation pose. The person has dark pink skin and a blue turban."
+        },
+        {
+          "image_file": "12_cat.webp",
+          "emojis": [
+            "🤸",
+            "🐩",
+            "💪"
+          ],
+          "accessibility_text": "A standing person breathes in and out while stretching to the side. A white poodle also stretches. The person has dark pink skin and black curly hair in a yellow sweat band."
+        },
+        {
+          "image_file": "13_cat.webp",
+          "emojis": [
+            "📰",
+            "🔎",
+            "🔍"
+          ],
+          "accessibility_text": "A searching woman holds two magnifying glasses to her eyes. She switches between them to make each eye appear larger. She has beige skin and black hair."
+        },
+        {
+          "image_file": "14_cat.webp",
+          "emojis": [
+            "🐈",
+            "🐱",
+            "💻"
+          ],
+          "accessibility_text": "A peaceful ginger cat lies on a laptop's keyboard. It taps its front paws to make the screen display change."
+        },
+        {
+          "image_file": "15_cat.webp",
+          "emojis": [
+            "👩‍💻",
+            "🏠",
+            "💻"
+          ],
+          "accessibility_text": "A woman holds a laptop while wearing a pink top and glasses. The view zooms out to reveal her spotty pajama bottoms and bear slippers. She has beige skin and ginger hair."
+        },
+        {
+          "image_file": "16_cat.webp",
+          "emojis": [
+            "👨‍💻",
+            "🏠",
+            "💻"
+          ],
+          "accessibility_text": "A man holds a laptop while wearing a green shirt, a red tie and glasses. The view zooms out to reveal his pajama shorts and bunny slippers. He has beige skin and ginger hair."
+        },
+        {
+          "image_file": "17_cat.webp",
+          "emojis": [
+            "✋",
+            "💦",
+            "🤧"
+          ],
+          "accessibility_text": "A beige hand with a smiley face holds a white bar of soap with a smiley face while surrounded by blue bubbles. The soap spins around as the hand squeezes it."
+        },
+        {
+          "image_file": "18_cat.webp",
+          "emojis": [
+            "😷",
+            "🤒",
+            "🤧"
+          ],
+          "accessibility_text": "A man wears a transparent sphere on his head and a green jumper covered in green slime. He pokes the sphere and looks surpised. He has beige skin and ginger hair.  "
+        },
+        {
+          "image_file": "19_cat.webp",
+          "emojis": [
+            "😷",
+            "🤒",
+            "🏠"
+          ],
+          "accessibility_text": "A man uses a giant red pencil to draw a circle around himself. A large transparent dome appears around him. He has brown skin and black hair."
+        },
+        {
+          "image_file": "20_cat.webp",
+          "emojis": [
+            "👩‍⚕",
+            "👨‍⚕️",
+            "🤒"
+          ],
+          "accessibility_text": "A person wears a face mask, a stethoscope, blue scrubs and a red cap with a cross. The person stands akimbo as a red superhero's cape starts flowing.  The person has beige skin and black hair."
+        },
+        {
+          "image_file": "21_cat.webp",
+          "emojis": [
+            "🙏",
+            "🎉",
+            "✨"
+          ],
+          "accessibility_text": "Large, multi-colored text that reads \"hero\" in English is below a green sash. Small, white text that reads \"You're my\" in English appears on the sash. The combined text reads \"You're my hero\" in English."
+        },
+        {
+          "image_file": "22_cat.webp",
+          "emojis": [
+            "👩‍⚕",
+            "👨‍⚕️",
+            "🤒"
+          ],
+          "accessibility_text": "A person wears a face mask, a stethoscope, blue scrubs and a red cap with a cross. The person stands akimbo as a red superhero's cape starts flowing.  The person has beige skin and black hair."
+        },
+        {
+          "image_file": "23_cat.webp",
+          "emojis": [
+            "👩‍⚕",
+            "👨‍⚕️",
+            "🤒"
+          ],
+          "accessibility_text": "A person wears a face mask, a stethoscope, blue scrubs and a red cap with a cross. The person stands akimbo as a red superhero's cape starts flowing.  The person has beige skin and black hair."
+        }
+      ]
+    },
+    {
+  "identifier": "3",
+  "name": "𝙴𝚍𝚒𝚝𝚒𝚘𝚗 𝚠𝚒𝚝𝚑𝚘𝚞𝚝 𝙳𝚘𝚔𝚜𝚕𝚒",
+  "publisher": "𝚈𝙾𝚂𝙸𝙼𝙾𝚁𝙰",
+  "tray_image_file": "tray_jmk.png",
+  "image_data_version": "1",
+  "avoid_cache": false,
+  "publisher_email": "yosimoraid@gmail.com",
+  "publisher_website": "",
+  "privacy_policy_website": "",
+  "license_agreement_website": "",
+  "stickers": [
+    {
+      "image_file": "01_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 01"
+    },
+    {
+      "image_file": "02_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 02"
+    },
+    {
+      "image_file": "03_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 03"
+    },
+    {
+      "image_file": "04_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 04"
+    },
+    {
+      "image_file": "05_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 05"
+    },
+    {
+      "image_file": "06_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 06"
+    },
+    {
+      "image_file": "07_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 07"
+    },
+    {
+      "image_file": "08_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 08"
+    },
+    {
+      "image_file": "09_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 09"
+    },
+    {
+      "image_file": "10_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 10"
+    },
+    {
+      "image_file": "11_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 11"
+    },
+    {
+      "image_file": "12_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 12"
+    },
+    {
+      "image_file": "13_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 13"
+    },
+    {
+      "image_file": "14_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 14"
+    },
+    {
+      "image_file": "15_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 15"
+    },
+    {
+      "image_file": "16_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 16"
+    },
+    {
+      "image_file": "17_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 17"
+    },
+    {
+      "image_file": "18_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 18"
+    },
+    {
+      "image_file": "19_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 19"
+    },
+    {
+      "image_file": "20_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 20"
+    },
+    {
+      "image_file": "21_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 21"
+    }
+
+  ]
+    },
+    {
+  "identifier": "4",
+  "name": "𝙴𝚍𝚒𝚝𝚒𝚘𝚗 𝚠𝚒𝚝𝚑𝚘𝚞𝚝 𝙳𝚘𝚔𝚜𝚕𝚒",
+  "publisher": "𝚈𝙾𝚂𝙸𝙼𝙾𝚁𝙰",
+  "tray_image_file": "tray_jmk.png",
+  "image_data_version": "1",
+  "avoid_cache": false,
+  "publisher_email": "yosimoraid@gmail.com",
+  "publisher_website": "",
+  "privacy_policy_website": "",
+  "license_agreement_website": "",
+  "stickers": [
+    {
+      "image_file": "22_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 22"
+    },
+    {
+      "image_file": "23_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 23"
+    },
+    {
+      "image_file": "24_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 24"
+    },
+    {
+      "image_file": "25_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 25"
+    },
+    {
+      "image_file": "26_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 26"
+    },
+    {
+      "image_file": "27_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 27"
+    },
+    {
+      "image_file": "28_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 28"
+    },
+    {
+      "image_file": "29_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 29"
+    },
+    {
+      "image_file": "30_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 30"
+    },
+    {
+      "image_file": "31_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 31"
+    },
+    {
+      "image_file": "32_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 32"
+    },
+    {
+      "image_file": "33_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 33"
+    },
+    {
+      "image_file": "34_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 34"
+    },
+    {
+      "image_file": "35_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 35"
+    },
+    {
+      "image_file": "36_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 36"
+    },
+    {
+      "image_file": "37_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 37"
+    },
+    {
+      "image_file": "38_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 38"
+    },
+    {
+      "image_file": "39_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 39"
+    },
+    {
+      "image_file": "40_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 40"
+    },
+    {
+      "image_file": "41_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 41"
+    }
+  ]
+    },
+    {
+  "identifier": "5",
+  "name": "𝙴𝚍𝚒𝚝𝚒𝚘𝚗 𝚠𝚒𝚝𝚑𝚘𝚞𝚝 𝙳𝚘𝚔𝚜𝚕𝚒",
+  "publisher": "𝚈𝙾𝚂𝙸𝙼𝙾𝚁𝙰",
+  "tray_image_file": "tray_jmk.png",
+  "image_data_version": "1",
+  "avoid_cache": false,
+  "publisher_email": "yosimoraid@gmail.com",
+  "publisher_website": "",
+  "privacy_policy_website": "",
+  "license_agreement_website": "",
+  "stickers": [
+    {
+      "image_file": "42_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 42"
+    },
+    {
+      "image_file": "43_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 43"
+    },
+    {
+      "image_file": "44_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 44"
+    },
+    {
+      "image_file": "45_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 45"
+    },
+    {
+      "image_file": "46_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 46"
+    },
+    {
+      "image_file": "47_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 47"
+    },
+    {
+      "image_file": "48_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 48"
+    },
+    {
+      "image_file": "49_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 49"
+    },
+    {
+      "image_file": "50_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 50"
+    },
+    {
+      "image_file": "51_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 51"
+    },
+    {
+      "image_file": "52_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 52"
+    },
+    {
+      "image_file": "53_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 53"
+    },
+    {
+      "image_file": "54_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 54"
+    },
+    {
+      "image_file": "55_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 55"
+    },
+    {
+      "image_file": "56_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 56"
+    },
+    {
+      "image_file": "57_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 57"
+    },
+    {
+      "image_file": "58_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 58"
+    },
+    {
+      "image_file": "59_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 59"
+    },
+    {
+      "image_file": "60_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 60"
+    },
+    {
+      "image_file": "61_jmk.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 61"
+    }
+  ]
+    },
+    {
+  "identifier": "6",
+  "name": "𝙹𝚊𝚗𝚐𝚊𝚗 𝙰𝚜𝚊𝚕 𝙲𝚕𝚊𝚒𝚖",
+  "publisher": "𝙸𝙽𝙸 𝙿𝚄𝙽𝚈𝙰 𝚈𝙾𝚂𝙸𝙼𝙾𝚁𝙰",
+  "tray_image_file": "tray_catmeme.png",
+  "image_data_version": "1",
+  "avoid_cache": false,
+  "publisher_email": "yosimoraid@gmail.com",
+  "publisher_website": "",
+  "privacy_policy_website": "",
+  "license_agreement_website": "",
+  "stickers": [
+    {
+      "image_file": "01_catmeme.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 01"
+    },
+    {
+      "image_file": "02_catmeme.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 02"
+    },
+    {
+      "image_file": "03_catmeme.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 03"
+    },
+    {
+      "image_file": "04_catmeme.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 04"
+    },
+    {
+      "image_file": "05_catmeme.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 05"
+    },
+    {
+      "image_file": "06_catmeme.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 06"
+    },
+    {
+      "image_file": "07_catmeme.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 07"
+    },
+    {
+      "image_file": "08_catmeme.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 08"
+    },
+    {
+      "image_file": "09_catmeme.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 09"
+    },
+    {
+      "image_file": "10_catmeme.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 10"
+    },
+    {
+      "image_file": "11_catmeme.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 11"
+    },
+    {
+      "image_file": "12_catmeme.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 12"
+    },
+    {
+      "image_file": "13_catmeme.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 13"
+    },
+    {
+      "image_file": "14_catmeme.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 14"
+    }
+  ]
+    },
+    {
+  "identifier": "7",
+  "name": "𝙹𝚊𝚗𝚐𝚊𝚗 𝙰𝚜𝚊𝚕 𝙲𝚕𝚊𝚒𝚖",
+  "publisher": "𝙸𝙽𝙸 𝙿𝚄𝙽𝚈𝙰 𝚈𝙾𝚂𝙸𝙼𝙾𝚁𝙰",
+  "tray_image_file": "tray_anime.png",
+  "image_data_version": "1",
+  "avoid_cache": false,
+  "publisher_email": "yosimoraid@gmail.com",
+  "publisher_website": "",
+  "privacy_policy_website": "",
+  "license_agreement_website": "",
+  "stickers": [
+          {
+      "image_file": "01_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 01"
+    },
+    {
+      "image_file": "02_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 02"
+    },
+    {
+      "image_file": "03_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 03"
+    },
+    {
+      "image_file": "04_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 04"
+    },
+    {
+      "image_file": "05_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 05"
+    },
+    {
+      "image_file": "06_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 06"
+    },
+    {
+      "image_file": "07_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 07"
+    },
+    {
+      "image_file": "08_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 08"
+    },
+    {
+      "image_file": "09_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 09"
+    },
+    {
+      "image_file": "10_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 10"
+    },
+    {
+      "image_file": "11_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 11"
+    },
+    {
+      "image_file": "12_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 12"
+    },
+    {
+      "image_file": "13_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 13"
+    },
+    {
+      "image_file": "14_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 14"
+    },
+    {
+      "image_file": "15_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 15"
+    },
+    {
+      "image_file": "16_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 16"
+    },
+    {
+      "image_file": "17_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 17"
+    },
+    {
+      "image_file": "18_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 18"
+    },
+    {
+      "image_file": "19_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 19"
+    },
+    {
+      "image_file": "20_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 20"
+    },
+    {
+      "image_file": "21_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 21"
+    }
+  ]
+    },
+    {
+  "identifier": "8",
+  "name": "𝙹𝚊𝚗𝚐𝚊𝚗 𝙰𝚜𝚊𝚕 𝙲𝚕𝚊𝚒𝚖",
+  "publisher": "𝙸𝙽𝙸 𝙿𝚄𝙽𝚈𝙰 𝚈𝙾𝚂𝙸𝙼𝙾𝚁𝙰",
+  "tray_image_file": "tray_anime.png",
+  "image_data_version": "1",
+  "avoid_cache": false,
+  "publisher_email": "yosimoraid@gmail.com",
+  "publisher_website": "",
+  "privacy_policy_website": "",
+  "license_agreement_website": "",
+  "stickers": [
+    {
+      "image_file": "22_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 22"
+    },
+    {
+      "image_file": "23_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 23"
+    },
+    {
+      "image_file": "24_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 24"
+    },
+    {
+      "image_file": "25_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 25"
+    },
+    {
+      "image_file": "26_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 26"
+    },
+    {
+      "image_file": "27_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 27"
+    },
+    {
+      "image_file": "28_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 28"
+    },
+    {
+      "image_file": "29_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 29"
+    },
+    {
+      "image_file": "30_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 30"
+    },
+    {
+      "image_file": "31_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 31"
+    },
+    {
+      "image_file": "32_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 32"
+    },
+    {
+      "image_file": "33_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 33"
+    },
+    {
+      "image_file": "34_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 34"
+    },
+    {
+      "image_file": "35_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 35"
+    },
+    {
+      "image_file": "36_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 36"
+    },
+    {
+      "image_file": "37_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 37"
+    },
+    {
+      "image_file": "38_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 38"
+    },
+    {
+      "image_file": "39_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 39"
+    },
+    {
+      "image_file": "40_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 40"
+    },
+    {
+      "image_file": "41_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 41"
+    }
+  ]
+    },
+    {
+  "identifier": "9",
+  "name": "𝙹𝚊𝚗𝚐𝚊𝚗 𝙰𝚜𝚊𝚕 𝙲𝚕𝚊𝚒𝚖",
+  "publisher": "𝙸𝙽𝙸 𝙿𝚄𝙽𝚈𝙰 𝚈𝙾𝚂𝙸𝙼𝙾𝚁𝙰",
+  "tray_image_file": "tray_anime.png",
+  "image_data_version": "1",
+  "avoid_cache": false,
+  "publisher_email": "yosimoraid@gmail.com",
+  "publisher_website": "",
+  "privacy_policy_website": "",
+  "license_agreement_website": "",
+  "stickers": [
+    {
+      "image_file": "42_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 42"
+    },
+    {
+      "image_file": "43_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 43"
+    },
+    {
+      "image_file": "44_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 44"
+    },
+    {
+      "image_file": "45_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 45"
+    },
+    {
+      "image_file": "46_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 46"
+    },
+    {
+      "image_file": "47_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 47"
+    },
+    {
+      "image_file": "48_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 48"
+    },
+    {
+      "image_file": "49_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 49"
+    },
+    {
+      "image_file": "50_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 50"
+    },
+    {
+      "image_file": "51_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 51"
+    },
+    {
+      "image_file": "52_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 52"
+    },
+    {
+      "image_file": "53_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 53"
+    },
+    {
+      "image_file": "54_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 54"
+    },
+    {
+      "image_file": "55_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 55"
+    },
+    {
+      "image_file": "56_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 56"
+    },
+    {
+      "image_file": "57_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 57"
+    },
+    {
+      "image_file": "58_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 58"
+    },
+    {
+      "image_file": "59_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 59"
+    },
+    {
+      "image_file": "60_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 60"
+    },
+    {
+      "image_file": "61_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 61"
+    },
+    {
+      "image_file": "62_anime.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 62"
+    }
+  ]
+    },
+    {
+  "identifier": "10",
+  "name": "𝙹𝚊𝚗𝚐𝚊𝚗 𝙰𝚜𝚊𝚕 𝙲𝚕𝚊𝚒𝚖",
+  "publisher": "𝙸𝙽𝙸 𝙿𝚄𝙽𝚈𝙰 𝚈𝙾𝚂𝙸𝙼𝙾𝚁𝙰",
+  "tray_image_file": "tray_random.png",
+  "image_data_version": "1",
+  "avoid_cache": false,
+  "publisher_email": "yosimoraid@gmail.com",
+  "publisher_website": "",
+  "privacy_policy_website": "",
+  "license_agreement_website": "",
+  "stickers": [
+    {
+      "image_file": "01_random.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 01"
+    },
+    {
+      "image_file": "02_random.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 02"
+    },
+    {
+      "image_file": "03_random.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 03"
+    },
+    {
+      "image_file": "04_random.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 04"
+    },
+    {
+      "image_file": "05_random.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 05"
+    },
+    {
+      "image_file": "06_random.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 06"
+    },
+    {
+      "image_file": "07_random.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 07"
+    },
+    {
+      "image_file": "08_random.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 08"
+    },
+    {
+      "image_file": "09_random.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 09"
+    },
+    {
+      "image_file": "10_random.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 10"
+    },
+    {
+      "image_file": "11_random.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 11"
+    },
+    {
+      "image_file": "12_random.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 12"
+    },
+    {
+      "image_file": "13_random.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 13"
+    }
+  ]
+    },
+    {
+  "identifier": "11",
+  "name": "𝙹𝚊𝚗𝚐𝚊𝚗 𝙰𝚜𝚊𝚕 𝙲𝚕𝚊𝚒𝚖",
+  "publisher": "𝙸𝙽𝙸 𝙿𝚄𝙽𝚈𝙰 𝚈𝙾𝚂𝙸𝙼𝙾𝚁𝙰",
+  "tray_image_file": "tray_teks.png",
+  "image_data_version": "1",
+  "avoid_cache": false,
+  "publisher_email": "yosimoraid@gmail.com",
+  "publisher_website": "",
+  "privacy_policy_website": "",
+  "license_agreement_website": "",
+  "stickers": [
+    {
+      "image_file": "01_teks.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 01"
+    },
+    {
+      "image_file": "02_teks.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 02"
+    },
+    {
+      "image_file": "03_teks.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 03"
+    },
+    {
+      "image_file": "04_teks.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 04"
+    },
+    {
+      "image_file": "05_teks.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 05"
+    },
+    {
+      "image_file": "06_teks.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 06"
+    },
+    {
+      "image_file": "07_teks.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 07"
+    },
+    {
+      "image_file": "08_teks.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 08"
+    },
+    {
+      "image_file": "09_teks.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 09"
+    },
+    {
+      "image_file": "10_teks.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 10"
+    },
+    {
+      "image_file": "11_teks.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 11"
+    },
+    {
+      "image_file": "12_teks.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 12"
+    },
+    {
+      "image_file": "13_teks.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 13"
+    },
+    {
+      "image_file": "14_teks.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 14"
+    },
+    {
+      "image_file": "15_teks.webp",
+      "emojis": ["📱"],
+      "accessibility_text": "Stiker 15"
+    }
+  ]
+    }
+ ]
+}
