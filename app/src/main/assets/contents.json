@@ -1428,6 +1428,26 @@
       "accessibility_text": "Stiker 15"
     }
   ]
+    },
+    {
+      "identifier": "11",
+      "name": "",
+      "publisher": "",
+      "tray_image_file": "tray_teks.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+      "image_file": "niel.webp",
+      "emojis": ["😹"],
+      "accessibility_text": "Daniel Bagoyang Gimang"
+        }
+      ]
     }
  ]
 }
